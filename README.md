@@ -10,5 +10,6 @@ To create the visualizations, I used Python and its popular data science and vis
 After cleaning and processing the data, I created several charts and visuals that conveyed the key insights from the dataset.
 
 The final deliverable was a set of high-quality visuals in PNG format, which could be used to support the article and engage the readers. The visuals effectively highlighted the best practices of industries that prioritize work-life balance and gender equality.
+![Final visuals](images/dsbrd.png)
 
 The project is presented at Maven Analitics.
