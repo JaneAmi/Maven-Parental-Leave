@@ -7,7 +7,6 @@ As a Data Visualization Specialist, I worked on a project to create impactful vi
 I was provided with a dataset containing a CSV table with 1,601 records, one for each company. Each record contained the company's name and industry, as well as crowdsourced information on the paid and unpaid weeks off they offer as part of both their maternity and paternity leave policies (when available).
 
 To create the visualizations, I used Python and its popular data science and visualization libraries such as Pandas, Matplotlib, Seaborn and Pywaffle for wafflecharts.
-
 [Link to notebook](https://github.com/JaneAmi/Maven-Parental-Leave/blob/master/mavenparental.ipynb)
 
 After cleaning and processing the data, I created several charts and visuals that conveyed the key insights from the dataset.
